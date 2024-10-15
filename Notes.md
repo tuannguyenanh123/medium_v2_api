@@ -10,4 +10,9 @@
 - We will only build the backend using NestJS
 
 ## 3. Prerequisites
+- Nodejs
 - Follow docs nestjs
+- Postman
+
+## 4. Module, Controllers and providers
+- Controllers are responsible for handling incoming request and outgoing
