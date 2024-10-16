@@ -27,3 +27,5 @@
 - `ts-node`: ts-node is a TypeScript execution engine and REPL for Node.js. And used for dev mode
 - `tsconfig-paths`: Use this to load modules whose location is specified in the paths section of tsconfig.json
 - Use nodemon package for using watch mode while starting server in dev
+
+## 8. PostgreSQL setup
