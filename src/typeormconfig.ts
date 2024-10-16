@@ -3,11 +3,11 @@ import { DataSourceOptions } from 'typeorm';
 const config: DataSourceOptions = {
   type: 'postgres',
   host: 'localhost',
-  port: 3306,
-  username: 'root',
-  password: 'root',
-  database: 'test',
-  entities: [],
+  port: 5432,
+  username: 'postgres',
+  password: 'anhtuan120600',
+  database: 'postgres',
+  entities: [__dirname + 'src/**/*.entity{.ts,.js}'],
   synchronize: true,
 };
 
